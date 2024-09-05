@@ -1,0 +1,14 @@
+title: calvink19.co
+description: calvink19's website.
+show_downloads: false
+# theme: jekyll-theme-console
+Retry-After: 1sec
+
+# style: dark # dark (default), light or hacker
+# listen_for_clients_preferred_style: true # false (default) or true
+
+# footer: 'Site is still in development. Powered by GitHub.'
+
+plugins:
+  - jekyll-include-cache
+  - gemfile
