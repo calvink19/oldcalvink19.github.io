@@ -1,5 +1,5 @@
 ***
 
-Moving from *calvink19.co*
+Sitemap [here](https://ck19r.github.io/sitemap)
 
 ***
